@@ -11,6 +11,7 @@ public class Array {
 				Month_days[i] = k;
 						k++;
 		}
+		{}
 		for(i = 0; i<12; i++) {
 			System.out.println(Month_days[i]);
 		}
