@@ -7,6 +7,16 @@ class DoWhile {
       System.out.println("tick " = n);
       n--;
     } while(n>0);
+
+     int n = 0;
+
+ do {
+   System.out.println("tick " + n);
+   n--;
+ } while(n>0);
+
+
+
   }
 }
 // can be written more efficiently as
@@ -15,4 +25,5 @@ class DoWhile {
 // } while(--n > 0);
 //}
 //}
+
 
