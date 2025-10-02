@@ -1,0 +1,19 @@
+class classname {
+  type instance-variable1;
+  type instance-variable2;
+
+  //...
+  type instance-variableN;
+
+  type methodname1(parameter-list) {
+  //body of method
+
+  }
+  type methodname2(parameter-list) {
+  //body of the method
+  }
+  //...
+  type methodnameN(parameter-list) {
+  //body of method
+  }
+ }
